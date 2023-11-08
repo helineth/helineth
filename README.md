@@ -1,7 +1,6 @@
-# Olá, eu sou Helinete Amorim
+# Olá, eu sou a Helinete Amorim
 
-![GitHub Followers](https://github.com/helineth?tab=followers)
-![LinkedIn Follow](https://www.linkedin.com/mynetwork/network-manager/people-follow/followers/)
+
 
 Sou uma desenvolvedora Front-End apaixonada por criar experiências web incríveis. Tenho conhecimentos sólidos em React.js, TypeScript e Bootstrap, além de também ser uma desenvolvedora Java para aplicativos de desktop e web. Atualmente, estou aprendendo o desenvolvimento Android com Jetpack Compose e a linguagem Kotlin.
 
